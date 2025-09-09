@@ -11,4 +11,4 @@ Step 4: Loading an Executable. Implement the logic to load an EBOOT.BIN file (a 
 
 Step 5: First Graphics. Set up a window using a library like winit. Implement the most basic GPU commands to clear the screen to a specific color. Getting the first "hello world" homebrew program to display a colored screen is a massive milestone.
 
-Step 6: Iterate for Years. From here, you would spend years slowly implementing more and more instructions, kernel functions, and GPU commands, fixing thousands of bugs along the way.
+Step 6: Iterate for Years. From here, you would spend years slowly implementing more and more instructions, kernel functions, and GPU commands, fixing thousands of bugs along the way
