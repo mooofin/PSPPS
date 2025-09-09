@@ -1,4 +1,4 @@
-Development Roadmap
+
 
 Step 0: Research. Spend weeks reading the PPSSPP source code, the PSPVitawiki, and any available MIPS architecture manuals.
 
