@@ -1,6 +1,6 @@
 Step 0: Research. Spend weeks reading the PPSSPP source code, the PSPVitawiki, and any available MIPS architecture manuals.
 
-tep 1: The CPU. Start by building the MIPS instruction decoder. Create a simple program that can load a snippet of MIPS machine code into a byte array and execute a few simple instructions (like ADD, SUB, ADDI). At this 
+Step 1: The CPU. Start by building the MIPS instruction decoder. Create a simple program that can load a snippet of MIPS machine code into a byte array and execute a few simple instructions (like ADD, SUB, ADDI). At this 
 stage, you just print the state of the registers to the console.
 
 Step 2: Memory. Implement a basic memory bus that the CPU can read from and write to.
