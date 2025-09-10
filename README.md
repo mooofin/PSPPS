@@ -1,6 +1,6 @@
 # PSPPS - A PlayStation Portable Emulator in Rust
 
-PSPPS is a work-in-progress emulator for the Sony PlayStation Portable (PSP), written in Rust. This project aims to explore the architecture of the PSP and the challenges of hardware emulation.
+PSPPS is a work-in-progress emulator for the Sony PlayStation Portable (PSP), written in Rust. This project aims to explore the architecture of the PSP and the challenges of hardware emulation 
 
 ## Project Philosophy
 
@@ -46,7 +46,7 @@ This is a massive milestone. The goal is to get the first visual output from a h
 
 *Status: GPU module is planned (`src/gpu/`).*
 
-### **Step 6: Iterate for Years**
+### **Step 6: Iterate for 
 From here, the journey is one of continuous, iterative development. This will involve:
 *   Implementing more and more MIPS instructions.
 *   Fleshing out the vast library of kernel functions.
@@ -55,7 +55,7 @@ From here, the journey is one of continuous, iterative development. This will in
 
 ## Getting Started
 
-This project is in its very early stages and is not yet capable of running any commercial games. However, you can build and run the project as follows:
+This project is in its very early stages dont shame 
 
 ```bash
 # Clone the repository
